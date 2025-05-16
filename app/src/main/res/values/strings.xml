@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecordatoryApp</string>
+    <string-array name="importance_levels">
+        <item>Normal</item>
+        <item>Importante</item>
+        <item>Muy Importante</item>
+    </string-array>
+</resources>
